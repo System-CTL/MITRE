@@ -7,4 +7,4 @@ MITRE ATT&amp;CK® is a globally-accessible knowledge base of adversary tactics 
 
 # Right Now!
 
-We are focussing on Initial Access, Persistence and Privileges Escalation thats the base start for stable things faster   
+We are focussing on Initial Access, Persistence and Privileges Escalation  
